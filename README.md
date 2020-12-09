@@ -2,7 +2,7 @@
 
 A 4x4 TicTacToe game developed in Android where two players can play.
 
-##Rules:
+## Rules:
 1. Player takes alternate chances to play.
 2. Form a row/column and you win.
 3. Form a diagonal on the board and you win.
@@ -16,9 +16,9 @@ The main components of this project are:
 
 Note: The game can be extended to larger boards of say 5x5, 6x6 etc.
 
-##Screenshots:
-![]{screenshots/Screenshot_NewGame.png}
-![]{screenshots/Screenshot_Diagonal.png}
-![]{screenshots/Screenshot_Corners.png}
+## Screenshots:
+![](screenshots/Screenshot_NewGame.png)
+![](screenshots/Screenshot_Diagonal.png)
+![](screenshots/Screenshot_Corners.png)
 
 
