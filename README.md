@@ -17,8 +17,7 @@ The main components of this project are:
 Note: The game can be extended to larger boards of say 5x5, 6x6 etc.
 
 ## Screenshots:
+![](screenshots/TicTacToe.gif)
 ![](screenshots/Screenshot_NewGame.png)
 ![](screenshots/Screenshot_Diagonal.png)
 ![](screenshots/Screenshot_Corners.png)
-
-
