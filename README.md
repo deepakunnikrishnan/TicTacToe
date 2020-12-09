@@ -12,3 +12,8 @@ Rules:
 The main components of this project are:
 1. TicTacToeBoard - a custom component that forms the visual representation for the board.
 2. GameEngine - Class controls the whole game and decides on the outcome of the game.
+
+Note: The game can be extended to larger boards of say 5x5, 6x6 etc.
+
+
+
