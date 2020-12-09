@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="border_width">1dp</dimen>
+    <dimen name="default_padding">16dp</dimen>
+
+
+    <!-- font sizes -->
+    <dimen name="font_x_small">12sp</dimen>
+    <dimen name="font_small">14sp</dimen>
+    <dimen name="font_medium">16sp</dimen>
+    <dimen name="font_large">18sp</dimen>
+    <dimen name="font_x_large">20sp</dimen>
+    <dimen name="font_xx_large">22sp</dimen>
+</resources>
